@@ -37,7 +37,7 @@
 ## 📝 워크스루 문서
 
 문제별 상세 풀이가 포함된 워크스루 문서는 아래 링크에서 확인할 수 있습니다:  
-👉 [Walkthrough 다운로드 (Word 파일)](https://github.com/your-repo/TeamESG_Wargame/blob/main/TeamESG_Walkthrough.docx)
+👉 [Walkthrough 다운로드 (Word 파일)](ESG Walkthrough 조범근.docx)
 
 ---
 
