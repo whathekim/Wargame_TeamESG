@@ -3,7 +3,7 @@
 > Team ESG가 제작한 CTF 스타일 웹 기반 워게임 프로젝트입니다.  
 > 현실 기반 시나리오로 보안 취약점을 학습할 수 있도록 구성되어 있습니다.
 
-![Wargame_TeamESG_gif](Wargame_TeamESG.gif)
+![Wargame_TeamESG_gif](Wargame_TeamESG_main.gif)
 
 ---
 
