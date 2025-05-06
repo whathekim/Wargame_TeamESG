@@ -1,9 +1,9 @@
 # 🧠 TeamESG Wargame
 
+![Wargame_TeamESG_gif](Wargame_TeamESG_main.gif)
+
 > Team ESG가 제작한 CTF 스타일 웹 기반 워게임 프로젝트입니다.  
 > 현실 기반 시나리오로 보안 취약점을 학습할 수 있도록 구성되어 있습니다.
-
-![Wargame_TeamESG_gif](Wargame_TeamESG_main.gif)
 
 ---
 
@@ -35,6 +35,8 @@
 ---
 
 ## 📝 워크스루 문서
+
+![Wargame_TeamESG_walkthrough_gif](Wargame_TeamESG_walkthrough.gif)
 
 문제별 상세 풀이가 포함된 워크스루 문서는 아래 링크에서 확인할 수 있습니다:  
 👉 [Walkthrough 보기 및 다운로드 (pdf 파일)](https://github.com/whathekim/Wargame_TeamESG/blob/main/ESG%20Walkthrough%20%EC%A1%B0%EB%B2%94%EA%B7%BC.pdf)
