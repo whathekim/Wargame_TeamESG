@@ -40,9 +40,3 @@
 👉 [Walkthrough 보기 및 다운로드 (pdf 파일)](https://github.com/whathekim/Wargame_TeamESG/blob/main/ESG%20Walkthrough%20%EC%A1%B0%EB%B2%94%EA%B7%BC.pdf)
 
 ---
-
-## 📄 라이선스
-
-본 프로젝트는 **KOREAIT** 보안 실습 과정에서 제작되었습니다.
-
----
