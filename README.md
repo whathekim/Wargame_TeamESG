@@ -34,11 +34,16 @@
 
 ---
 
-## 📝 워크스루 문서
+## 📝 파일 다운로드
 
 ![Wargame_TeamESG_walkthrough_gif](Wargame_TeamESG_walkthrough.gif)
 
-문제별 상세 풀이가 포함된 워크스루 문서는 아래 링크에서 확인할 수 있습니다:  
+
+Wargame_TeamESG ova 파일 다운로드:
+👉 [파일 다운로드](https://drive.google.com/file/d/1eEhs-NIqLQVycyY7_CkTALgvl2FFWgGt/view)
+
+
+문제별 상세 풀이가 포함된 워크스루:
 👉 [Walkthrough 보기 및 다운로드 (pdf 파일)](https://github.com/whathekim/Wargame_TeamESG/blob/main/ESG%20Walkthrough%20%EC%A1%B0%EB%B2%94%EA%B7%BC.pdf)
 
 ---
