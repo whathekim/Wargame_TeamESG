@@ -40,7 +40,7 @@
 
 
 Wargame_TeamESG ova 파일 다운로드:
-👉 [파일 다운로드](https://drive.google.com/file/d/1eEhs-NIqLQVycyY7_CkTALgvl2FFWgGt/view)
+👉 [ESG_wargame.ova 파일 다운로드](https://drive.google.com/file/d/1eEhs-NIqLQVycyY7_CkTALgvl2FFWgGt/view)
 
 
 문제별 상세 풀이가 포함된 워크스루:
